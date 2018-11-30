@@ -1,0 +1,39 @@
+page-home {
+    * {
+        overflow-y: hidden !important;
+        overflow-x: hidden !important;
+    }
+
+    h2,p{
+        text-align: center;
+        color: #000;
+        font-size: 12pt;
+    }
+
+    h1,inico{
+        text-align: center;}
+
+
+     h2{
+        font-size: 14pt;  
+     }
+
+    img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+
+    .row{
+        background-color: #fff;
+    }
+
+    p#desc{
+        width: 90%;
+        text-align: center;
+        margin-left: 13px;
+       //float: center;
+    }
+
+}
